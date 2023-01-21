@@ -1,0 +1,5 @@
+
+# ignore some vs object and artifact files
+*.vs
+*bin/
+*obj/
